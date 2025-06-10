@@ -61,6 +61,7 @@ cover/
 # Django stuff:
 *.log
 local_settings.py
+# db.sqlite3
 db.sqlite3-journal
 
 # Flask stuff:
@@ -180,10 +181,10 @@ static/admin
 static/images
 static/mptt
 
-media/profile_pics
-media/products
-media/custom_jerseys
-media/categories
-media/banners
-media/site
-media/chat_images
+# media/profile_pics
+# media/products
+# media/custom_jerseys
+# media/categories
+# media/banners
+# media/site
+# media/chat_images
